@@ -3,9 +3,9 @@ Test case with application scenarios
 
 <p align="center" width="100%">
     <img width="25%" src="https://github.com/jkaewprateep/Python_and_CURL/blob/main/Python.jpg">
-    <img width="24%" src="https://github.com/jkaewprateep/starting_guide_pygames_AI/blob/main/pygame.jpg">
-    <img width="18%" src="https://github.com/jkaewprateep/starting_guide_pygames_AI/blob/main/image10.jpg">
-    <img width="12%" src="https://github.com/jkaewprateep/starting_guide_pygames_AI/blob/main/image6.jpg"> </br>
-    <b> Pygame and Tensorflow AI machine learning </b> </br>
+    <img width="22%" src="https://github.com/jkaewprateep/testcase-scenarios/blob/main/Curl_command.jpg">
+    <img width="5.84%" src="https://github.com/jkaewprateep/testcase-scenarios/blob/main/image7.jpg">
+    <img width="10.5%" src="https://github.com/jkaewprateep/testcase-scenarios/blob/main/kid_41.png"> </br> 
+    <b> Perform test scenarios with Python scripts and CURL command </b> </br>
     <b> ( Picture from Internet ) </b> </br>
 </p>
