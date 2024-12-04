@@ -55,6 +55,11 @@ def request_getinaccountinfo ():
     return result.get("cash");
 ```
 
+## Test scenarios ##
+
+🐯💬 Culture-INFO, test scenarios, more than documents, flat files, and spreadsheets, the scripts find and readme.file must indicate the step tasks running for the benefit of the organization. An example of data output helps to save time for analysis and where should it be kept is where it is easy to find when it is requirements. <br>
+🦁💬 Submitting tasks requires log analysis and test cases because repeating tasks is the first step of analysis and it saves time for auditing, testing, debugging from tracing logs, repeating issues, and analysis and user requirements. Good test scenarios and tracing help to save time in work scenarios not only development time but also auditing time. <br>
+
 ```
 for i in range(1, 1001, 1):
     
