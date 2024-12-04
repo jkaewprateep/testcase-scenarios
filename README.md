@@ -18,6 +18,7 @@ Test case with application scenarios
 ## Simple test case method for scenarios ##
 
 🦭💬 By application design back-end and front-end interfaces with RESTful web services API frontier, controllable with standard message communication method that creates communication path, negotiation for web-sockets, or exchange information over reachable networks. This method performs tests by two levels of ```Python requests``` method and curl command because the requests are required to read website information once before passing website communication negotiation requirements to CURL commands that include ```CORS message exchange origin``` and other parameters. </br>
+🐐💬 In some scenarios we required first-time negotiation for website attributes requirements and you may find ```401 - unauthoriazatoin``` one message before the ```200 - OK``` response, ```201 - create``` response, or another message in the communication path. This technique is called ```least requirements``` is a famous method to guarantee the communication path of multiple application access requirements and make it short by one-time testing or ```attribute assertion requirements```. </br>
 
 ```
 def request_getinaccountinfo ():
