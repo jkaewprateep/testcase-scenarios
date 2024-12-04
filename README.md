@@ -14,6 +14,11 @@ Test case with application scenarios
 👧💬 🎈 Certification and secured communication can apply even in script language you can modify the path of the certificate CA file at ```verify=c:\dekdee..crt``` for requests method and ```--cacert c:\dekdee.crt``` of the CURL command. </br>
 🐑💬 ➰ Secured does not mean unbreakable but will find difficult to break, some communication creates sessions with randoms secrete found at the time or terminals and complete communication fast enough until tracing and repeatable cannot break the secrete then allowed to perform ```fast algorithms``` the Basic authentication without secrete code is one of the fast algorithms. </br>
 
+
+## Simple test case method for scenarios ##
+
+🦭💬 By application design back-end and front-end interfaces with RESTful web services API frontier, controllable with standard message communication method that creates communication path, negotiation for web-sockets, or exchange information over reachable networks. This method performs tests by two levels of ```Python requests``` method and curl command because the requests are required to read website information once before passing website communication negotiation requirements to CURL commands that include ```CORS message exchange origin``` and other parameters. </br>
+
 ```
 def request_getinaccountinfo ():
     
