@@ -10,6 +10,9 @@ Test case with application scenarios
     <b> ( Picture from Internet ) </b> </br>
 </p>
 
+🧸💬 It is user-controllable and useful if a user can develop and analyze their test scripts, Python language can be directly modified and run as user requirements, traceable and repeatable with user requirements methods. </br> 
+👧💬 🎈 Certification and secured communication can apply even in script language you can modify the path of the certificate CA file at ```verify=c:\dekdee..crt``` for requests method and ```--cacert c:\dekdee.crt``` of the CURL command. </br>
+
 ```
 def request_getinaccountinfo ():
     
