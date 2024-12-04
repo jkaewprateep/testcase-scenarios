@@ -12,6 +12,7 @@ Test case with application scenarios
 
 🧸💬 It is user-controllable and useful if a user can develop and analyze their test scripts, Python language can be directly modified and run as user requirements, traceable and repeatable with user requirements methods. </br> 
 👧💬 🎈 Certification and secured communication can apply even in script language you can modify the path of the certificate CA file at ```verify=c:\dekdee..crt``` for requests method and ```--cacert c:\dekdee.crt``` of the CURL command. </br>
+🐑💬 ➰ Secured does not mean unbreakable but will find difficult to break, some communication creates sessions with randoms secrete found at the time or terminals and complete communication fast enough until tracing and repeatable cannot break the secrete then allowed to perform ```fast algorithms``` the Basic authentication without secrete code is one of the fast algorithms. </br>
 
 ```
 def request_getinaccountinfo ():
